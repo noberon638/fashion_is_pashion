@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fashion_is_pashion/static/css/main.b451faa6.css",
+    "main.css": "/fashion_is_pashion/static/css/main.6645ee7a.css",
     "main.js": "/fashion_is_pashion/static/js/main.a6da4f27.js",
     "index.html": "/fashion_is_pashion/index.html",
-    "main.b451faa6.css.map": "/fashion_is_pashion/static/css/main.b451faa6.css.map",
+    "main.6645ee7a.css.map": "/fashion_is_pashion/static/css/main.6645ee7a.css.map",
     "main.a6da4f27.js.map": "/fashion_is_pashion/static/js/main.a6da4f27.js.map"
   },
   "entrypoints": [
-    "static/css/main.b451faa6.css",
+    "static/css/main.6645ee7a.css",
     "static/js/main.a6da4f27.js"
   ]
 }
